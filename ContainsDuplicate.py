@@ -1,5 +1,4 @@
-#Question Link:
-#https://leetcode.com/problems/contains-duplicate/description/?envType=study-plan&id=data-structure-i
+#Question No:217
 
 from typing import List
 class Solution:
